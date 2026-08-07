@@ -1,0 +1,24 @@
+*.bak
+*-bak
+*-save
+_autosave-*
+*.lck
+fp-info-cache
+*-backups/
+*.kicad_prl
+
+# KiCad local history (auto-saved snapshots)
+.history/
+.history
+.history/**
+
+# Zencoder
+.zencoder/
+.zencoder-*
+zencoder/
+zencoder-*
+*.zencoder
+.zencoder-cache/
+zencoder-cache/
+.zencoder_config
+.zencoder-snippets/
