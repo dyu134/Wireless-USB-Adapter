@@ -9285,17 +9285,21 @@
 			(net "/ULPI_D5")
 			(pinfunction "DATA5_8")
 			(pintype "bidirectional")
+<<<<<<< Updated upstream
 			(uuid "8c407948-6f48-47ae-bc04-b6e697081efd")
+=======
+			(uuid "fcd82de2-8e90-49a4-b774-948825939436")
 		)
-		(pad "9" smd roundrect
-			(at -0.25 1.9375)
-			(size 0.25 0.825)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
 			(net "/ULPI_D6")
 			(pinfunction "DATA6_9")
 			(pintype "bidirectional")
+<<<<<<< Updated upstream
 			(uuid "eb22b472-7c44-4a93-86ac-919c7faadcda")
+=======
+			(uuid "4eac80f5-e0c4-42cb-b323-afaab16006c9")
+>>>>>>> Stashed changes
 		)
 		(pad "10" smd roundrect
 			(at 0.25 1.9375)
@@ -9305,7 +9309,11 @@
 			(net "/ULPI_D7")
 			(pinfunction "DATA7_10")
 			(pintype "bidirectional")
+<<<<<<< Updated upstream
 			(uuid "904ddc4d-4f9b-4ef8-8b3d-ad0561211a53")
+=======
+			(uuid "c88da7a5-172a-4b77-bed1-9347cc61fd89")
+>>>>>>> Stashed changes
 		)
 		(pad "11" smd roundrect
 			(at 0.75 1.9375)
@@ -9315,7 +9323,11 @@
 			(net "unconnected-(U2-SPK_L-Pad11)")
 			(pinfunction "SPK_L_11")
 			(pintype "bidirectional+no_connect")
+<<<<<<< Updated upstream
 			(uuid "81b0b9d8-9bb6-4ece-afa0-6e58f8f45e7b")
+=======
+			(uuid "f220f669-679e-4353-986a-406185e6e75c")
+>>>>>>> Stashed changes
 		)
 		(pad "12" smd roundrect
 			(at 1.25 1.9375)
@@ -9325,7 +9337,11 @@
 			(net "unconnected-(U2-SPK_R-Pad12)")
 			(pinfunction "SPK_R_12")
 			(pintype "bidirectional+no_connect")
+<<<<<<< Updated upstream
 			(uuid "81a21ddd-710a-4585-9ab2-558fd7da76a0")
+=======
+			(uuid "19d05ee2-1b03-4d31-bb36-7ae0be3835ac")
+>>>>>>> Stashed changes
 		)
 		(pad "13" smd roundrect
 			(at 1.9375 1.25)
@@ -9335,7 +9351,11 @@
 			(net "/PHY_USB_D+")
 			(pinfunction "DP_13")
 			(pintype "bidirectional")
+<<<<<<< Updated upstream
 			(uuid "aed3e00f-3b25-46f2-a2f4-47a9bfdf9734")
+=======
+			(uuid "4de206ff-24a0-4a11-8e48-1e5e9dbf2c03")
+>>>>>>> Stashed changes
 		)
 		(pad "14" smd roundrect
 			(at 1.9375 0.75)
@@ -9345,27 +9365,45 @@
 			(net "/PHY_USB_D-")
 			(pinfunction "DM_14")
 			(pintype "bidirectional")
+<<<<<<< Updated upstream
 			(uuid "ca765a30-e9b4-4733-98d7-0b17969afa51")
+=======
+			(uuid "4841a5bf-642a-4c67-98d2-83408c8abf7d")
+>>>>>>> Stashed changes
 		)
 		(pad "15" smd roundrect
 			(at 1.9375 0.25)
 			(size 0.825 0.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
+<<<<<<< Updated upstream
 			(net "Net-(U2-VDD33)")
 			(pinfunction "VDD33_15")
 			(pintype "power_out")
 			(uuid "10aabba5-1c08-4e9a-ab5b-33b8a3fa1ce2")
+=======
+			(net "unconnected-(U2-VDD33-Pad15)")
+			(pinfunction "VDD33_15")
+			(pintype "power_out")
+			(uuid "69d04ccf-806d-47aa-9640-7d75d5a724b1")
+>>>>>>> Stashed changes
 		)
 		(pad "16" smd roundrect
 			(at 1.9375 -0.25)
 			(size 0.825 0.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
+<<<<<<< Updated upstream
 			(net "+3V3")
 			(pinfunction "VBAT_16")
 			(pintype "power_in")
 			(uuid "6d631581-60c2-41c7-8c7d-98daa23598ff")
+=======
+			(net "unconnected-(U2-VBAT-Pad16)")
+			(pinfunction "VBAT_16")
+			(pintype "power_in")
+			(uuid "57706b7d-a47b-47d0-8fd9-1b63dc2bdc6e")
+>>>>>>> Stashed changes
 		)
 		(pad "17" smd roundrect
 			(at 1.9375 -0.75)
@@ -9375,17 +9413,28 @@
 			(net "Net-(U2-VBUS)")
 			(pinfunction "VBUS_17")
 			(pintype "input")
+<<<<<<< Updated upstream
 			(uuid "41dd07aa-9cd4-4518-9b8e-f405259770ce")
+=======
+			(uuid "b7851948-e8e5-4a52-882f-43ee6652051c")
+>>>>>>> Stashed changes
 		)
 		(pad "18" smd roundrect
 			(at 1.9375 -1.25)
 			(size 0.825 0.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
+<<<<<<< Updated upstream
 			(net "GND")
 			(pinfunction "ID_18")
 			(pintype "input")
 			(uuid "2df59e63-d35e-43a1-85da-01c932246253")
+=======
+			(net "unconnected-(U2-ID-Pad18)")
+			(pinfunction "ID_18")
+			(pintype "input")
+			(uuid "b68b07fb-7351-4661-9878-ab682b5bece8")
+>>>>>>> Stashed changes
 		)
 		(pad "19" smd roundrect
 			(at 1.25 -1.9375)
@@ -9395,7 +9444,11 @@
 			(net "Net-(U2-RBIAS)")
 			(pinfunction "RBIAS_19")
 			(pintype "passive")
+<<<<<<< Updated upstream
 			(uuid "d0d2a28a-8afc-43ba-a19d-7a0498f01847")
+=======
+			(uuid "cdb711b3-7247-4149-904d-a2a9294eecf5")
+>>>>>>> Stashed changes
 		)
 		(pad "20" smd roundrect
 			(at 0.75 -1.9375)
@@ -9405,27 +9458,45 @@
 			(net "/PHY_CLK")
 			(pinfunction "REFCLK_20")
 			(pintype "input")
+<<<<<<< Updated upstream
 			(uuid "841db43f-5a33-4437-8408-a7cbe01775ef")
+=======
+			(uuid "7bbcfa68-7b7d-46c7-abcd-0907df76503c")
+>>>>>>> Stashed changes
 		)
 		(pad "21" smd roundrect
 			(at 0.25 -1.9375)
 			(size 0.25 0.825)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
+<<<<<<< Updated upstream
 			(net "+3V3")
 			(pinfunction "~{RESETB}_21")
 			(pintype "input")
 			(uuid "13daba97-7c57-4483-8f11-69bb690304d2")
+=======
+			(net "unconnected-(U2-~{RESETB}-Pad21)")
+			(pinfunction "~{RESETB}_21")
+			(pintype "input")
+			(uuid "3e625393-5b12-4850-81cf-61bb096c9164")
+>>>>>>> Stashed changes
 		)
 		(pad "22" smd roundrect
 			(at -0.25 -1.9375)
 			(size 0.25 0.825)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
+<<<<<<< Updated upstream
 			(net "Net-(U2-VDD18)")
 			(pinfunction "VDD18_22")
 			(pintype "power_out")
 			(uuid "ea7e2f49-6dcd-43c2-9fca-a0fdce2d02f8")
+=======
+			(net "unconnected-(U2-VDD18-Pad22)")
+			(pinfunction "VDD18_22")
+			(pintype "power_out")
+			(uuid "b972e983-958f-47d8-a2cc-187c94bf9cff")
+>>>>>>> Stashed changes
 		)
 		(pad "23" smd roundrect
 			(at -0.75 -1.9375)
@@ -9435,7 +9506,11 @@
 			(net "/PHY_STP")
 			(pinfunction "STP_23")
 			(pintype "input")
+<<<<<<< Updated upstream
 			(uuid "88b6b70b-495b-4826-a0e7-0d22b600aac5")
+=======
+			(uuid "e77629ca-2dc7-4f0a-a86e-f4cea979a25e")
+>>>>>>> Stashed changes
 		)
 		(pad "24" smd roundrect
 			(at -1.25 -1.9375)
@@ -9445,7 +9520,11 @@
 			(net "/PHY_DIR")
 			(pinfunction "DIR_24")
 			(pintype "output")
+<<<<<<< Updated upstream
 			(uuid "b8e8f762-4f74-4ffb-bfec-ff9a70dda727")
+=======
+			(uuid "f0cf5e84-23c8-4adc-88e0-ed964c45497c")
+>>>>>>> Stashed changes
 		)
 		(pad "25" smd rect
 			(at 0 0)
@@ -9456,7 +9535,11 @@
 			(pinfunction "GND_25")
 			(pintype "power_in")
 			(zone_connect 2)
+<<<<<<< Updated upstream
 			(uuid "05ce6529-fe7d-4f3d-bef6-c79d301238ea")
+=======
+			(uuid "46c976c9-0c3b-48e2-9ccb-f7fd6ed0564a")
+>>>>>>> Stashed changes
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.step"
@@ -9471,6 +9554,7 @@
 			)
 		)
 	)
+<<<<<<< Updated upstream
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f4c90055-7ce3-42fa-9fff-75c244103d36")
@@ -9481,6 +9565,18 @@
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "3d98cedf-7720-4a77-a667-65623bea7e49")
+=======
+	(footprint "Package_DFN_QFN:Texas_UQFN-10_1.5x2mm_P0.5mm"
+		(layer "F.Cu")
+		(uuid "85d31d99-3336-4dfa-85d7-d0b0ccece3f7")
+		(at 97.625 39.53)
+		(descr "Texas RSE0010A UQFN, 10 Pin (https://www.ti.com/lit/ml/mpqf186d/mpqf186d.pdf)")
+		(tags "Texas RSE0010 UQFN NoLead")
+		(property "Reference" "U3"
+			(at 0 -2.15 0)
+			(layer "F.SilkS")
+			(uuid "1fb06ac6-8495-4eb8-8a31-f8545497e741")
+>>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
@@ -9488,10 +9584,17 @@
 				)
 			)
 		)
+<<<<<<< Updated upstream
 		(property "Value" "10u"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "e84de092-ef75-436a-9b2e-9e31f77fa88f")
+=======
+		(property "Value" "TS3USB221A"
+			(at 0 2.3 0)
+			(layer "F.Fab")
+			(uuid "efa6b432-d060-4019-a084-3c60329c3e82")
+>>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
@@ -9501,6 +9604,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
+<<<<<<< Updated upstream
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8266ed86-c4e7-44a3-8631-ff2c2b46cc85")
@@ -9529,49 +9633,123 @@
 			(effects
 				(font
 					(size 1 1)
+=======
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0206a8ce-6fb8-4e3e-96a6-4455b42577b7")
+			(effects
+				(font
+					(size 1.27 1.27)
+>>>>>>> Stashed changes
 					(thickness 0.15)
 				)
 			)
 		)
+<<<<<<< Updated upstream
 		(property ki_fp_filters "C_*")
 		(path "/40011a21-9fe0-4ba4-b582-a6edabceba51")
+=======
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60147fd3-ff30-444c-8088-d2c256789b74")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/703e569e-b24e-4f17-9d77-5417b0a7e255")
+>>>>>>> Stashed changes
 		(sheetname "/")
 		(sheetfile "Wireless USB Adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
+<<<<<<< Updated upstream
 				(pins "1" "2")
+=======
+				(pins "8" "7" "6" "9" "10" "5" "1" "2" "3" "4")
+>>>>>>> Stashed changes
 			)
 		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
+<<<<<<< Updated upstream
 			(start -0.14058 -0.51)
 			(end 0.14058 -0.51)
+=======
+			(start -0.41 1.135)
+			(end -0.86 1.135)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
+<<<<<<< Updated upstream
 			(uuid "7668d845-c76f-46f5-950c-85d37ae5afa8")
 		)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
+=======
+			(uuid "1a764a91-6487-4609-b65d-906faeef1da4")
+		)
+		(fp_line
+			(start 0.41 -1.135)
+			(end 0.86 -1.135)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
+<<<<<<< Updated upstream
 			(uuid "4b8a349c-5dc5-4ade-9d2d-d2e3c5288cbb")
 		)
 		(fp_rect
 			(start -1.48 -0.73)
 			(end 1.48 0.73)
+=======
+			(uuid "d985ae41-a1d5-436d-97e3-9ba3c14604f1")
+		)
+		(fp_line
+			(start 0.41 1.135)
+			(end 0.86 1.135)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "79234c10-00fb-4696-ba91-5ca91c840d37")
+		)
+		(fp_poly
+			(pts
+				(xy -0.75 -1.14) (xy -0.99 -1.47) (xy -0.51 -1.47) (xy -0.75 -1.14)
+			)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "90620cea-74d9-409d-b7d6-0baef31b2b8c")
+		)
+		(fp_line
+			(start -1.2 -1.45)
+			(end -1.2 1.45)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
+<<<<<<< Updated upstream
 			(fill no)
 			(layer "F.CrtYd")
 			(uuid "af4ecddd-ac16-4217-8bf1-0d53333f05f3")
@@ -9579,10 +9757,49 @@
 		(fp_rect
 			(start -0.8 -0.4)
 			(end 0.8 0.4)
+=======
+			(layer "F.CrtYd")
+			(uuid "44d23f1d-e227-416a-8d69-337e7069c164")
+		)
+		(fp_line
+			(start -1.2 1.45)
+			(end 1.2 1.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2d232d66-1d03-4f4a-a628-ae821fbcae70")
+		)
+		(fp_line
+			(start 1.2 -1.45)
+			(end -1.2 -1.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0e519831-61ee-4ecc-9b30-de8e36a6e667")
+		)
+		(fp_line
+			(start 1.2 1.45)
+			(end 1.2 -1.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "aa2dfa31-b4cf-4203-8af5-f97e16f984f0")
+		)
+		(fp_line
+			(start -0.75 -0.625)
+			(end -0.375 -1)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
+<<<<<<< Updated upstream
 			(fill no)
 			(layer "F.Fab")
 			(uuid "99e09c38-92f3-41f1-8ab8-035130017b75")
@@ -9595,10 +9812,64 @@
 				(font
 					(size 0.4 0.4)
 					(thickness 0.06)
+=======
+			(layer "F.Fab")
+			(uuid "2849d2a8-d7aa-4220-8ecd-86a4722774d4")
+		)
+		(fp_line
+			(start -0.75 1)
+			(end -0.75 -0.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "acc7d6f4-c988-4823-a525-77a3f3018720")
+		)
+		(fp_line
+			(start -0.375 -1)
+			(end 0.75 -1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9080f10f-9706-4a3a-8ab5-6a7c5e6dbebb")
+		)
+		(fp_line
+			(start 0.75 -1)
+			(end 0.75 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5111a92e-b1c5-46d2-8240-6be0b3c307fb")
+		)
+		(fp_line
+			(start 0.75 1)
+			(end -0.75 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "22f2bca4-03cf-4d62-8e39-dd9327c4b362")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(uuid "84777e1b-a54d-47f3-bac0-05c3a35c059f")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.08)
+>>>>>>> Stashed changes
 				)
 			)
 		)
 		(pad "1" smd roundrect
+<<<<<<< Updated upstream
 			(at -0.775 0)
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
@@ -9618,6 +9889,109 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+=======
+			(at -0.675 -0.75)
+			(size 0.55 0.25)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.2)
+			(net "/PHY_USB_D+")
+			(pinfunction "1D+_1")
+			(pintype "bidirectional")
+			(uuid "e2a5434d-0357-48a8-bd74-6c069edf0c5a")
+		)
+		(pad "2" smd roundrect
+			(at -0.675 -0.25)
+			(size 0.55 0.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/PHY_USB_D-")
+			(pinfunction "1D-_2")
+			(pintype "bidirectional")
+			(uuid "acb40dbf-4b74-4b27-a118-f223e511685e")
+		)
+		(pad "3" smd roundrect
+			(at -0.675 0.25)
+			(size 0.55 0.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/PASS_USB_D+")
+			(pinfunction "2D+_3")
+			(pintype "bidirectional")
+			(uuid "01588c0d-6889-4d82-823e-0822926bae1c")
+		)
+		(pad "4" smd roundrect
+			(at -0.675 0.75)
+			(size 0.55 0.25)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.2)
+			(net "/PASS_USB_D-")
+			(pinfunction "2D-_4")
+			(pintype "bidirectional")
+			(uuid "e3e141f7-933c-4dc9-a6a6-0b368f704122")
+		)
+		(pad "5" smd roundrect
+			(at 0 0.9)
+			(size 0.3 0.6)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.1666666667)
+			(net "unconnected-(U3-GND-Pad5)")
+			(pinfunction "GND_5")
+			(pintype "power_in")
+			(uuid "663faf17-bc6f-4d0b-b973-011948b1560f")
+		)
+		(pad "6" smd roundrect
+			(at 0.675 0.75)
+			(size 0.55 0.25)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.2)
+			(net "unconnected-(U3-~{OE}-Pad6)")
+			(pinfunction "~{OE}_6")
+			(pintype "input")
+			(uuid "fc259ae6-663a-4b6c-828e-1fe8b4a544fb")
+		)
+		(pad "7" smd roundrect
+			(at 0.675 0.25)
+			(size 0.55 0.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/DEV_USB_D-")
+			(pinfunction "D-_7")
+			(pintype "bidirectional")
+			(uuid "fa50c8c7-0566-4a2b-a7c6-66fcb2182748")
+		)
+		(pad "8" smd roundrect
+			(at 0.675 -0.25)
+			(size 0.55 0.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/DEV_USB_D+")
+			(pinfunction "D+_8")
+			(pintype "bidirectional")
+			(uuid "049d26e0-11e3-4c91-8f1f-b5b1156041c2")
+		)
+		(pad "9" smd roundrect
+			(at 0.675 -0.75)
+			(size 0.55 0.25)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.2)
+			(net "/MODE_SEL")
+			(pinfunction "S_9")
+			(pintype "input")
+			(uuid "3e4b6bbd-0438-4c19-a017-f5732ee9898a")
+		)
+		(pad "10" smd roundrect
+			(at 0 -0.9)
+			(size 0.3 0.6)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.1666666667)
+			(net "unconnected-(U3-VCC-Pad10)")
+			(pinfunction "VCC_10")
+			(pintype "power_in")
+			(uuid "905354f8-9b5d-4d1b-9175-fb677676df8d")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_UQFN-10_1.5x2mm_P0.5mm.step"
+>>>>>>> Stashed changes
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9629,6 +10003,7 @@
 			)
 		)
 	)
+<<<<<<< Updated upstream
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f6c3e1a4-3a58-4922-a43a-d6c1bd0706c7")
@@ -9639,6 +10014,18 @@
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "f6bb8771-39d8-4f04-ab29-92e4e438254c")
+=======
+	(footprint "Package_DFN_QFN:Texas_UQFN-10_1.5x2mm_P0.5mm"
+		(layer "F.Cu")
+		(uuid "c5a9a02a-43a0-4ae2-8629-699e5df2a92e")
+		(at 101.075 39.53)
+		(descr "Texas RSE0010A UQFN, 10 Pin (https://www.ti.com/lit/ml/mpqf186d/mpqf186d.pdf)")
+		(tags "Texas RSE0010 UQFN NoLead")
+		(property "Reference" "U4"
+			(at 0 -2.15 0)
+			(layer "F.SilkS")
+			(uuid "359b3687-f8d9-4910-9a50-2ae6e9016911")
+>>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
@@ -9646,10 +10033,17 @@
 				)
 			)
 		)
+<<<<<<< Updated upstream
 		(property "Value" "10u"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "ebdd2db8-00d9-4595-b751-8b6a1aa52a42")
+=======
+		(property "Value" "TS3USB221A"
+			(at 0 2.3 0)
+			(layer "F.Fab")
+			(uuid "c336e02c-0974-4a3f-9c52-8a90a7004586")
+>>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
@@ -9659,6 +10053,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
+<<<<<<< Updated upstream
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "df19a70b-7525-4bd5-bb4d-cc014e06dfa3")
@@ -9687,49 +10082,123 @@
 			(effects
 				(font
 					(size 1 1)
+=======
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67cfa021-a450-4e3c-ab39-d9fcfa16df68")
+			(effects
+				(font
+					(size 1.27 1.27)
+>>>>>>> Stashed changes
 					(thickness 0.15)
 				)
 			)
 		)
+<<<<<<< Updated upstream
 		(property ki_fp_filters "C_*")
 		(path "/50ff6a4c-12b7-4e84-87ec-03c2f618c509")
+=======
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2772a5cb-7cde-481a-936c-1023017d231f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/c305558a-6dcb-4c82-89c3-770833d786b9")
+>>>>>>> Stashed changes
 		(sheetname "/")
 		(sheetfile "Wireless USB Adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
+<<<<<<< Updated upstream
 				(pins "1" "2")
+=======
+				(pins "8" "7" "6" "9" "10" "5" "1" "2" "3" "4")
+>>>>>>> Stashed changes
 			)
 		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
+<<<<<<< Updated upstream
 			(start -0.14058 -0.51)
 			(end 0.14058 -0.51)
+=======
+			(start -0.41 1.135)
+			(end -0.86 1.135)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
+<<<<<<< Updated upstream
 			(uuid "f41848d2-3266-4d7f-8276-eb6a724409f4")
 		)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
+=======
+			(uuid "daff0e1e-f3c0-4a94-b348-e44cb1c79bba")
+		)
+		(fp_line
+			(start 0.41 -1.135)
+			(end 0.86 -1.135)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
+<<<<<<< Updated upstream
 			(uuid "a1adc93a-6b15-4362-95d6-1d189ac93940")
 		)
 		(fp_rect
 			(start -1.48 -0.73)
 			(end 1.48 0.73)
+=======
+			(uuid "6db441cf-e348-40a5-a788-53acc986a31d")
+		)
+		(fp_line
+			(start 0.41 1.135)
+			(end 0.86 1.135)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "db578509-84eb-4aa4-8ba3-737bf90b4589")
+		)
+		(fp_poly
+			(pts
+				(xy -0.75 -1.14) (xy -0.99 -1.47) (xy -0.51 -1.47) (xy -0.75 -1.14)
+			)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "a673203a-a21c-4069-a32a-78ed6bf569db")
+		)
+		(fp_line
+			(start -1.2 -1.45)
+			(end -1.2 1.45)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
+<<<<<<< Updated upstream
 			(fill no)
 			(layer "F.CrtYd")
 			(uuid "2dbbd8c3-73a6-4a3b-9ce2-89f5ae38f706")
@@ -9737,10 +10206,49 @@
 		(fp_rect
 			(start -0.8 -0.4)
 			(end 0.8 0.4)
+=======
+			(layer "F.CrtYd")
+			(uuid "98f976ed-daf8-439b-ae58-a8ba616d1569")
+		)
+		(fp_line
+			(start -1.2 1.45)
+			(end 1.2 1.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "075e807b-3d68-4816-ae1c-4686dfb91207")
+		)
+		(fp_line
+			(start 1.2 -1.45)
+			(end -1.2 -1.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e2fdf2bb-b3c0-4938-a1f6-c45953e7f221")
+		)
+		(fp_line
+			(start 1.2 1.45)
+			(end 1.2 -1.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c551f049-1e80-4794-ac9b-474a194ce032")
+		)
+		(fp_line
+			(start -0.75 -0.625)
+			(end -0.375 -1)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
+<<<<<<< Updated upstream
 			(fill no)
 			(layer "F.Fab")
 			(uuid "e9aca7dd-a66a-4498-bb66-bdb808a3c314")
@@ -9753,10 +10261,64 @@
 				(font
 					(size 0.4 0.4)
 					(thickness 0.06)
+=======
+			(layer "F.Fab")
+			(uuid "754e6f36-bb11-4a99-a777-7b81bbe49ec2")
+		)
+		(fp_line
+			(start -0.75 1)
+			(end -0.75 -0.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "11a832f8-d992-4252-afad-79756bea762b")
+		)
+		(fp_line
+			(start -0.375 -1)
+			(end 0.75 -1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9014bd6f-e60d-4c10-8ab6-bbb94d42880e")
+		)
+		(fp_line
+			(start 0.75 -1)
+			(end 0.75 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a33c91a1-7d23-46a5-9526-103338a88925")
+		)
+		(fp_line
+			(start 0.75 1)
+			(end -0.75 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3b19a723-3fd6-47cb-9225-f295ec50daf0")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(uuid "120954c0-49b7-4b32-89ee-128d2897a11f")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.08)
+>>>>>>> Stashed changes
 				)
 			)
 		)
 		(pad "1" smd roundrect
+<<<<<<< Updated upstream
 			(at -0.775 0)
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
@@ -9776,6 +10338,109 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+=======
+			(at -0.675 -0.75)
+			(size 0.55 0.25)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.2)
+			(net "/NRF_USB_D-")
+			(pinfunction "1D+_1")
+			(pintype "bidirectional")
+			(uuid "426302d8-93a7-4caf-b47b-c8233701274b")
+		)
+		(pad "2" smd roundrect
+			(at -0.675 -0.25)
+			(size 0.55 0.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/NRF_USB_D+")
+			(pinfunction "1D-_2")
+			(pintype "bidirectional")
+			(uuid "724f87f3-4469-46f7-acb6-0db80e26c3cc")
+		)
+		(pad "3" smd roundrect
+			(at -0.675 0.25)
+			(size 0.55 0.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/PASS_USB_D+")
+			(pinfunction "2D+_3")
+			(pintype "bidirectional")
+			(uuid "a57b044a-fc60-4cfe-8392-df51ff25771b")
+		)
+		(pad "4" smd roundrect
+			(at -0.675 0.75)
+			(size 0.55 0.25)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.2)
+			(net "/PASS_USB_D-")
+			(pinfunction "2D-_4")
+			(pintype "bidirectional")
+			(uuid "7922ae1e-e4ea-4d59-9917-52dc6b6e333d")
+		)
+		(pad "5" smd roundrect
+			(at 0 0.9)
+			(size 0.3 0.6)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.1666666667)
+			(net "unconnected-(U4-GND-Pad5)")
+			(pinfunction "GND_5")
+			(pintype "power_in")
+			(uuid "0c49fda8-c65e-48e7-a90f-84fcc1895fd0")
+		)
+		(pad "6" smd roundrect
+			(at 0.675 0.75)
+			(size 0.55 0.25)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.2)
+			(net "unconnected-(U4-~{OE}-Pad6)")
+			(pinfunction "~{OE}_6")
+			(pintype "input")
+			(uuid "a7cbc783-e097-4ddf-a5ad-4c587a9b65dc")
+		)
+		(pad "7" smd roundrect
+			(at 0.675 0.25)
+			(size 0.55 0.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/HST_USB_D-")
+			(pinfunction "D-_7")
+			(pintype "bidirectional")
+			(uuid "957b76e1-dbad-464b-8d5e-429b5b41e259")
+		)
+		(pad "8" smd roundrect
+			(at 0.675 -0.25)
+			(size 0.55 0.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/HST_USB_D+")
+			(pinfunction "D+_8")
+			(pintype "bidirectional")
+			(uuid "ff035a25-bd75-41d0-9b77-0baa2f42d435")
+		)
+		(pad "9" smd roundrect
+			(at 0.675 -0.75)
+			(size 0.55 0.25)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.2)
+			(net "/MODE_SEL")
+			(pinfunction "S_9")
+			(pintype "input")
+			(uuid "89732d13-5b35-4c82-990d-a3299322b2ae")
+		)
+		(pad "10" smd roundrect
+			(at 0 -0.9)
+			(size 0.3 0.6)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.1666666667)
+			(net "unconnected-(U4-VCC-Pad10)")
+			(pinfunction "VCC_10")
+			(pintype "power_in")
+			(uuid "9535acab-74a0-41a8-96c6-d883b255e4d7")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_UQFN-10_1.5x2mm_P0.5mm.step"
+>>>>>>> Stashed changes
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9787,6 +10452,7 @@
 			)
 		)
 	)
+<<<<<<< Updated upstream
 	(footprint "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "fd280b7a-8dbd-49e6-ba89-aa79a994912d")
@@ -9797,6 +10463,18 @@
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "de79081d-6d46-4d86-a6e7-d865e2bcb64f")
+=======
+	(footprint "Connector_USB:USB_C_Plug_Molex_105444"
+		(layer "F.Cu")
+		(uuid "d941e6ec-5920-418f-b600-eb0602cc2567")
+		(at 108.85 42.485)
+		(descr "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf")
+		(tags "USB Type-C Plug Edge Mount")
+		(property "Reference" "P1"
+			(at 0 2.04 0)
+			(layer "F.SilkS")
+			(uuid "90a09927-9d07-4096-a5d1-c688840f45d1")
+>>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
@@ -9804,11 +10482,18 @@
 				)
 			)
 		)
+<<<<<<< Updated upstream
 		(property "Value" "3k3"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "55cfac23-8b81-4668-b5cb-b9d9038106c8")
+=======
+		(property "Value" "USB_C_Plug_USB2.0"
+			(at 0 -1.96 0)
+			(layer "F.Fab")
+			(uuid "ac438223-e654-474f-80de-58791387e0a0")
+>>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
@@ -9818,6 +10503,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
+<<<<<<< Updated upstream
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "503b4441-1ac9-4b65-a259-c54095d0e726")
@@ -9840,17 +10526,50 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/97388f2c-b0fa-4a42-94ae-37e168b40b6e")
+=======
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37102122-1e75-4a2e-a61d-8d1598c84e71")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e79c4ef-284c-4157-8e65-8dff46384ff6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "USB*C*Plug*")
+		(path "/d5d4b74d-9b51-453c-bb49-1cabbb9ae016")
+>>>>>>> Stashed changes
 		(sheetname "/")
 		(sheetfile "Wireless USB Adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
+<<<<<<< Updated upstream
 				(pins "1" "2")
+=======
+				(pins "SH" "A1" "A12" "B1" "B12" "A4" "A9" "B4" "B9" "A5" "B5" "A7" "A6")
+>>>>>>> Stashed changes
 			)
 		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
+<<<<<<< Updated upstream
 			(start -1.5 -0.8)
 			(end -1.5 0.8)
 			(stroke
@@ -9893,81 +10612,142 @@
 		(fp_line
 			(start -1.48 -0.73)
 			(end 1.48 -0.73)
+=======
+			(start -4.3 1.96)
+			(end -4.3 -1.46)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
+<<<<<<< Updated upstream
 			(uuid "19e16db9-303d-4288-9b6a-e810a1a5eec2")
 		)
 		(fp_line
 			(start -1.48 0.73)
 			(end -1.48 -0.73)
+=======
+			(uuid "82bdd6f9-6c33-4d09-abdd-0b149303f6e6")
+		)
+		(fp_line
+			(start 4.3 -1.46)
+			(end -4.3 -1.46)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
+<<<<<<< Updated upstream
 			(uuid "4a473c41-6408-4181-8de9-c1a32fea01c9")
 		)
 		(fp_line
 			(start 1.48 -0.73)
 			(end 1.48 0.73)
+=======
+			(uuid "855863f0-4d19-4a47-8fd4-70f5db708aad")
+		)
+		(fp_line
+			(start 4.3 1.96)
+			(end -4.3 1.96)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
+<<<<<<< Updated upstream
 			(uuid "49893640-463d-4964-b725-ecc6b6a963cb")
 		)
 		(fp_line
 			(start 1.48 0.73)
 			(end -1.48 0.73)
+=======
+			(uuid "aa229434-9639-4a4d-93e1-42fcf5b40226")
+		)
+		(fp_line
+			(start 4.3 1.96)
+			(end 4.3 -1.46)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
+<<<<<<< Updated upstream
 			(uuid "1a54ad90-ddb2-4125-a60e-2b7987ca5a5d")
 		)
 		(fp_line
 			(start -0.8 -0.4125)
 			(end 0.8 -0.4125)
+=======
+			(uuid "137d690d-ee35-4d8b-a189-b4a5c584fd35")
+		)
+		(fp_line
+			(start -3.35 0)
+			(end -4.3 0)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
+<<<<<<< Updated upstream
 			(uuid "068df524-d478-47f1-8a02-140c65f4e56e")
 		)
 		(fp_line
 			(start -0.8 0.4125)
 			(end -0.8 -0.4125)
+=======
+			(uuid "79a2e4f0-e5b5-490d-a425-2562f0018c7c")
+		)
+		(fp_line
+			(start -3.05 -0.66)
+			(end -3.05 -0.3)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
+<<<<<<< Updated upstream
 			(uuid "8e0cb11e-e18e-4982-8253-e3380a117386")
 		)
 		(fp_line
 			(start 0.8 -0.4125)
 			(end 0.8 0.4125)
+=======
+			(uuid "52d77d8e-19e7-4ceb-8320-140075f99d6d")
+		)
+		(fp_line
+			(start -2.75 -0.96)
+			(end 2.75 -0.96)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
+<<<<<<< Updated upstream
 			(uuid "3733371f-8d88-426d-ad2c-430c45c3bdf7")
 		)
 		(fp_line
 			(start 0.8 0.4125)
 			(end -0.8 0.4125)
+=======
+			(uuid "698226ec-98b9-4e8b-a6fb-ff09c0bc54d0")
+		)
+		(fp_line
+			(start 3.05 -0.66)
+			(end 3.05 -0.3)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
+<<<<<<< Updated upstream
 			(uuid "f3ee7c34-d7dd-47c9-a798-8935262734e4")
 		)
 		(fp_text user "${REFERENCE}"
@@ -10186,10 +10966,18 @@
 		(fp_rect
 			(start -2.23 10.49)
 			(end 74.73 -10.49)
+=======
+			(uuid "178acd7d-3517-4f4e-bd1f-359c14d0e97b")
+		)
+		(fp_line
+			(start 3.35 0)
+			(end 4.3 0)
+>>>>>>> Stashed changes
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
+<<<<<<< Updated upstream
 			(fill no)
 			(layer "B.Fab")
 			(uuid "19c4eed1-35d0-4172-aba9-6f774470d1f5")
@@ -10269,6 +11057,289 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BK-18650-PC2.step"
+=======
+			(layer "F.Fab")
+			(uuid "5c06ff9e-2ffb-4a6e-9bcf-3f2e7197cc42")
+		)
+		(fp_arc
+			(start -3.05 -0.66)
+			(mid -2.962132 -0.872132)
+			(end -2.75 -0.96)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1f88489a-d5c7-4cea-8db0-478b2b8d49d6")
+		)
+		(fp_arc
+			(start -3.05 -0.3)
+			(mid -3.137868 -0.087868)
+			(end -3.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "727351c0-57d3-4da1-8e65-325e5fc14248")
+		)
+		(fp_arc
+			(start 2.75 -0.96)
+			(mid 2.962132 -0.872132)
+			(end 3.05 -0.66)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "7e35085c-defd-464f-a1c5-5911592f5031")
+		)
+		(fp_arc
+			(start 3.35 0)
+			(mid 3.137868 -0.087868)
+			(end 3.05 -0.3)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8c5489a9-13bf-4764-bd91-a08bf8eb418a")
+		)
+		(fp_text user "PCB Edge"
+			(at 0 -0.96 0)
+			(layer "Dwgs.User")
+			(uuid "063cee81-b139-4ec5-9fc1-929bba5a3868")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.08)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.04 0)
+			(layer "F.Fab")
+			(uuid "14c0b6a1-1704-4d98-bf0b-15d252df0e5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(pad "A1" smd roundrect
+			(at -2.75 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "GND")
+			(pinfunction "GND_A1")
+			(pintype "passive")
+			(uuid "a602cd2e-c53e-4364-822e-35c8a7856448")
+		)
+		(pad "A2" smd roundrect
+			(at -2.25 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "8369ddf3-fca4-4791-a0bf-b881b3cafa98")
+		)
+		(pad "A3" smd roundrect
+			(at -1.75 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "5c3c3428-6a3b-40d9-ae92-407c09167beb")
+		)
+		(pad "A4" smd roundrect
+			(at -1.25 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(P1-VBUS-PadA4)")
+			(pinfunction "VBUS_A4")
+			(pintype "passive")
+			(uuid "fa7fe267-a868-4276-b314-8b165ef16662")
+		)
+		(pad "A5" smd roundrect
+			(at -0.75 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "unconnected-(P1-CC-PadA5)")
+			(pinfunction "CC_A5")
+			(pintype "bidirectional")
+			(uuid "dd502238-a469-4f41-a20a-be6432449546")
+		)
+		(pad "A6" smd roundrect
+			(at -0.25 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/DEV_USB_D+")
+			(pinfunction "D+_A6")
+			(pintype "bidirectional")
+			(uuid "d787ad13-f017-4103-8f17-537619b9b97a")
+		)
+		(pad "A7" smd roundrect
+			(at 0.25 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/DEV_USB_D-")
+			(pinfunction "D-_A7")
+			(pintype "bidirectional")
+			(uuid "c169d799-871f-43ac-8b89-9c1d720dd7fb")
+		)
+		(pad "A8" smd roundrect
+			(at 0.75 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "59d5c1e1-c9c0-4b5c-9612-43843c655891")
+		)
+		(pad "A9" smd roundrect
+			(at 1.25 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(P1-VBUS-PadA4)")
+			(pinfunction "VBUS_A9")
+			(pintype "passive")
+			(uuid "304dc3a2-9487-4842-b9e9-7e6cc2700b65")
+		)
+		(pad "A10" smd roundrect
+			(at 1.75 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "4e5817eb-c4e2-45c0-ace1-56a7fb28b4dc")
+		)
+		(pad "A11" smd roundrect
+			(at 2.25 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "9fab42e0-eb79-42f6-b857-77c1f6a26738")
+		)
+		(pad "A12" smd roundrect
+			(at 2.75 0.04)
+			(size 0.38 1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "GND")
+			(pinfunction "GND_A12")
+			(pintype "passive")
+			(uuid "5a7fb651-d127-4bd6-aff8-9cf376ad3743")
+		)
+		(pad "B1" smd roundrect
+			(at 2.75 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "GND")
+			(pinfunction "GND_B1")
+			(pintype "passive")
+			(uuid "88f5d22e-5e2a-4d22-a6b2-1942ca5ed028")
+		)
+		(pad "B2" smd roundrect
+			(at 2.25 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "63a8c7e1-1589-40da-b718-117098558181")
+		)
+		(pad "B3" smd roundrect
+			(at 1.75 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "5a6b8a2a-181e-4e0e-bbb7-5259ba01133b")
+		)
+		(pad "B4" smd roundrect
+			(at 1.25 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(P1-VBUS-PadA4)")
+			(pinfunction "VBUS_B4")
+			(pintype "passive")
+			(uuid "376ae842-235e-4793-8372-de101495ac26")
+		)
+		(pad "B5" smd roundrect
+			(at 0.75 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "unconnected-(P1-VCONN-PadB5)")
+			(pinfunction "VCONN_B5")
+			(pintype "bidirectional")
+			(uuid "5a6c9b1e-9954-420d-9680-73e9c4ecad20")
+		)
+		(pad "B8" smd roundrect
+			(at -0.75 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "f44f9462-4692-4cd6-bcd1-82ad20fce2fd")
+		)
+		(pad "B9" smd roundrect
+			(at -1.25 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(P1-VBUS-PadA4)")
+			(pinfunction "VBUS_B9")
+			(pintype "passive")
+			(uuid "afe59ad2-c725-4f58-acdc-005a8c0ba324")
+		)
+		(pad "B10" smd roundrect
+			(at -1.75 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "7ef8d261-f559-42d5-8a3f-15d10999abc8")
+		)
+		(pad "B11" smd roundrect
+			(at -2.25 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "a52387d9-2b38-42e5-bd1a-1678b52e434e")
+		)
+		(pad "B12" smd roundrect
+			(at -2.75 0.04)
+			(size 0.38 1)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "GND")
+			(pinfunction "GND_B12")
+			(pintype "passive")
+			(uuid "fd92fb25-309c-4328-b3b0-2a15d767e947")
+		)
+		(pad "SH" smd roundrect
+			(at -3.42 0.88)
+			(size 0.7 1.15)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "unconnected-(P1-SHIELD-PadSH)")
+			(pinfunction "SHIELD_SH")
+			(pintype "passive")
+			(uuid "6d95ca33-a467-479b-96ab-fe6bcb83ca39")
+		)
+		(pad "SH" smd roundrect
+			(at 3.42 0.88)
+			(size 0.7 1.15)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net "unconnected-(P1-SHIELD-PadSH)")
+			(pinfunction "SHIELD_SH")
+			(pintype "passive")
+			(uuid "bed92454-27a7-42ac-b932-c463697690a3")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Plug_Molex_105444.step"
+>>>>>>> Stashed changes
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10280,6 +11351,7 @@
 			)
 		)
 	)
+<<<<<<< Updated upstream
 	(gr_arc
 		(start 100 52)
 		(mid 100.585786 50.585786)
@@ -10432,5 +11504,7 @@
 			)
 		)
 	)
+=======
+>>>>>>> Stashed changes
 	(embedded_fonts no)
 )
