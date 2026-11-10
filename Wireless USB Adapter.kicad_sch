@@ -8737,6 +8737,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 163.83) (xy 175.26 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4465a30f-7777-47bd-9c04-44937ea4867d")
+	)
+	(wire
+		(pts
 			(xy 91.44 97.79) (xy 104.14 97.79)
 		)
 		(stroke
@@ -10167,6 +10177,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 157.48) (xy 175.26 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4113c49-dcb4-4f88-84cd-4a7aa05bdbda")
+	)
+	(wire
+		(pts
 			(xy 138.43 135.89) (xy 138.43 139.7)
 		)
 		(stroke
@@ -11236,6 +11256,88 @@
 			(project "Wireless USB Adapter"
 				(path "/580ef328-f32e-47ab-8f04-0f59914e1f93"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 175.26 161.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c4991aa-9e24-4ad0-b0e9-8ca52dab1157")
+		(property "Reference" "R12"
+			(at 177.8 160.0199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 177.8 162.5599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0402_1005Metric"
+			(at 175.26 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 175.26 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "446da33c-a463-4d7b-90b7-799b3b1c42b0")
+		)
+		(pin "2"
+			(uuid "f0250a58-a75a-4d10-b4d6-366d74c80c0e")
+		)
+		(instances
+			(project "Wireless USB Adapter"
+				(path "/580ef328-f32e-47ab-8f04-0f59914e1f93"
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -13245,6 +13347,84 @@
 			(project "Wireless USB Adapter"
 				(path "/580ef328-f32e-47ab-8f04-0f59914e1f93"
 					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 175.26 157.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "588cf44e-f3fb-46ee-a45a-56fd85a133b6")
+		(property "Reference" "#PWR055"
+			(at 175.26 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 175.26 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 175.26 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3c4780c8-a7e6-44f2-ba1c-1e418467be4f")
+		)
+		(instances
+			(project "Wireless USB Adapter"
+				(path "/580ef328-f32e-47ab-8f04-0f59914e1f93"
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
